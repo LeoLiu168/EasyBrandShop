@@ -16,3 +16,6 @@
 
 # properties file #
 **/*.properties
+
+# mybatis generator project #
+/generatorSqlmapCustom/
