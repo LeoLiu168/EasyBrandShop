@@ -1,6 +1,6 @@
 EasyBrandShop 
-- A SOA framework based multiple brands distribution B2C store project.
-- including Technical as below:
+- A SOA framework based multiple brands distribution B2C mall project.
+- Including Technical as below:
 1.	Spring、SpringMVC、Mybatis
 2.	JSP、JSTL、jQuery、EasyUI、KindEditor（富文本编辑器）
 3.	Redis（缓存服务器，单点登录，购物车）
@@ -13,7 +13,7 @@ EasyBrandShop
 10.	FreeMarker（网页静态化）
 11.	Nginx（反向代理服务器）
 12.	MyCat（数据库中间件）
-- develop environment as below:
+- Develop environment as below:
 1.	Intellij Idea 
 2.	Maven 3.3.9
 3.	Tomcat 7.0.72（Maven Tomcat Plugin）
