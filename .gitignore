@@ -1,6 +1,14 @@
 # Maven #
-target/
+**/target/
 
-# IDEA #
-.idea/
-*.iml
+# Eclipse #
+.metadata/
+**/.classpath
+**/.project
+**/.settings/
+
+# Servers #
+/Servers/
+
+# OS #
+*/.DS_Store
