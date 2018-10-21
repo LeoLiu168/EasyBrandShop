@@ -1,9 +1,13 @@
 package com.easybrand.pojo;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class TbItem {
-    private Long id;
+public class TbItem implements Serializable{
+    
+	private static final long serialVersionUID = 1309921149763387993L;
+
+	private Long id;
 
     private String title;
 
