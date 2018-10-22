@@ -37,6 +37,7 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>easybrand-manager-web</servlet-name>
+		<!-- 此处不能使用/*,将拦截包括请求转发在内的jsp资源,导致前端显示错误 -->
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
   
